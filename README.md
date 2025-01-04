@@ -1,16 +1,16 @@
 # Bonjour, je suis Marwan Jelliti 👋
 
-🌟 **Full Stack Web Developer**  
+🌟 **Développeur Web Full Stack**  
 🎓 Organisateur @GDSC @EPI  
-🔭 Actuellement en train d'apprendre React.js et MongoDB.  
+🔭 Actuellement en train d'apprendre **React.js** et **MongoDB**.  
 📫 **Contactez-moi** :  
-- Email : marwanjelliti12@gmail.com  
-- Téléphone : +216 23 817 086  
+- **Email** : marwanjelliti12@gmail.com  
+- **Téléphone** : +216 23 817 086  
 
 ### 📊 Mes statistiques GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=marwanjelliti&show_icons=true&theme=radical)
 
-## Skills
+## Compétences
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -29,6 +29,3 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
-
-
-
