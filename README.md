@@ -1,8 +1,8 @@
 # Bonjour, je suis Marwan Jelliti 👋
 
 🌟 **Développeur Web Full Stack**  
-🎓 Organisateur @GDSC @EPI  
-🔭 Actuellement en train d'apprendre **React.js** et **MongoDB**.  
+🌍 **Basé à Sousse, Tunisie**  
+🖥️ **Découvrez mon portfolio** : *[Ajoutez ici votre lien de portfolio, si disponible]*  
 📫 **Contactez-moi** :  
 - **Email** : marwanjelliti12@gmail.com  
 - **Téléphone** : +216 23 817 086  
